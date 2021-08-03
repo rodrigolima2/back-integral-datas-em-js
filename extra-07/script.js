@@ -1,6 +1,7 @@
 const getYear = require('date-fns/getYear');
 const getDayOfYear = require('date-fns/getDayOfYear');
 
+/**/
 function promocao(dataInicio, dataCliente) {
     let taValendo = false;
 
